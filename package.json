@@ -1,0 +1,18 @@
+{
+  "name": "belajar-npm",
+  "version": "1.0.0",
+  "description": "Belajar NodeJS Npm",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js",
+    "randomCmd": "git -v",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Kelvin Raditya",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "4.1.0",
+    "validator": "^13.9.0"
+  }
+}
