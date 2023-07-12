@@ -1,3 +1,5 @@
+//* Mengetahui Chalk,Validator dan Yargs
+
 const validator = require("validator");
 
 //! Perlu di ingat bahwa ini adalah contoh salah satu pakcage di Npm yang bernama Validator
@@ -16,6 +18,3 @@ console.log(chalk.redBright(false));
 // const l = true;
 // console.log(p);
 // console.log(l);
-
-
-
